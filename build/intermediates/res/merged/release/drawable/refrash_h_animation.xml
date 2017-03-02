@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:drawable="@drawable/h1"
+        android:duration="50"/>
+    <item
+        android:drawable="@drawable/h2"
+        android:duration="50"/>
+    <item
+        android:drawable="@drawable/h3"
+        android:duration="50"/>
+    <item
+        android:drawable="@drawable/h4"
+        android:duration="50"/>
+    <item
+        android:drawable="@drawable/h5"
+        android:duration="50"/>
+    <item
+        android:drawable="@drawable/h6"
+        android:duration="50"/>
+    <item
+        android:drawable="@drawable/h7"
+        android:duration="50"/>
+    <item
+        android:drawable="@drawable/h8"
+        android:duration="50"/>
+
+</animation-list><!-- From: file:/Users/cuifei/Documents/fenghui4.5/fenghui3.5_studio/pulltorefresh/res/drawable/refrash_h_animation.xml -->

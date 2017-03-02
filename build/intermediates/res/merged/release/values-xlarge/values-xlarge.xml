@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/cuifei/Documents/fenghui4.5/fenghui3.5_studio/pulltorefresh/res/values-xlarge/dimens.xml -->
+    <eat-comment/>
+    <dimen name="fresh_text_size">27sp</dimen>
+    <dimen name="fresh_textsmall_size">21sp</dimen>
+    <dimen name="header_footer_left_right_padding">24dp</dimen>
+    <dimen name="header_footer_top_bottom_padding">12dp</dimen>
+    <dimen name="indicator_corner_radius">12dp</dimen>
+    <dimen name="indicator_internal_padding">4dp</dimen>
+    <dimen name="indicator_right_padding">10dp</dimen>
+</resources>
